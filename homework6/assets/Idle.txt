@@ -1,0 +1,5 @@
+assets/Idle (1).png
+assets/Idle (2).png
+assets/Idle (7).png
+assets/Idle (8).png
+assets/Idle (10).png
